@@ -4,7 +4,7 @@
 Running version: https://ywxzcp9yp2.execute-api.us-east-1.amazonaws.com/default/CIS470-Activity-6
 
 ### Activity Objectives
-
+---
 Experiment with the use of AWS Lambda functions, and deploy them to AWS Lambda.
 Run a CI/CD pipeline to deploy your Lambda function to AWS Lambda.
 
